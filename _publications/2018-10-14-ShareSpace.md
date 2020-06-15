@@ -8,8 +8,7 @@ venue: 'ACM Symposium on User Interface Software and Technology (UIST) 2018'
 paperurl: 'http://wanglolly.github.io/files/2018_ShareSpace.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://wanglolly.github.io/files/2018_ShareSpace.pdf)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+
+[Download paper here](http://wanglolly.github.io/files/2018_ShareSpace.pdf)
