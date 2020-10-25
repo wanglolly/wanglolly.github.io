@@ -7,7 +7,7 @@ date: 2020-10-20
 venue: 'ACM UIST 2020'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3379337.3415868'
 previewvideo: 'https://www.youtube.com/watch?v=di4M6IAhgl4'
-citation: '<b>Chiu-Hsuan Wang</b>, Chia-En Tsai, <a href="https://seraphina-yong.github.io/?fbclid=IwAR2UR6riWlTsiPUeI7wzCd6O44X4wkkI5hQp3EZiKd-4dwJkYEDNl5Msj7g">Seraphina Yong</a>, and Liwei Chan. 2020. Slice of Light: Transparent and Integrative Transition Among Realities in a Multi-HMD-User Environment. In Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology (UIST ’20). Association for Computing Machinery, New York, NY, USA, 805–817.'
+citation: '<b>Chiu-Hsuan Wang</b>, Chia-En Tsai, <a href="https://seraphina-yong.github.io/?fbclid=IwAR2UR6riWlTsiPUeI7wzCd6O44X4wkkI5hQp3EZiKd-4dwJkYEDNl5Msj7g" style="color:black;">Seraphina Yong</a>, and Liwei Chan. 2020. Slice of Light: Transparent and Integrative Transition Among Realities in a Multi-HMD-User Environment. In Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology (UIST ’20). Association for Computing Machinery, New York, NY, USA, 805–817.'
 ---
 
 ![teaser](/images/SliceofLight.png)
