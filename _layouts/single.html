@@ -42,14 +42,14 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
-        {% if post.paperurl %}
-          <a href=" {{ post.paperurl }} "> [paper]</a>
+        {% if page.paperurl %}
+          <a href=" {{ page.paperurl }} "> [paper]</a>
         {% else %}
           [paper]
         {% endif %}
 
-        {% if post.previewvideo %}
-          <a href=" {{ post.previewvideo }} "> [video]</a>
+        {% if page.previewvideo %}
+          <a href=" {{ page.previewvideo }} "> [video]</a>
         {% else %}
           [video]
         {% endif %}
