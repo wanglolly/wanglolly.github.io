@@ -41,7 +41,18 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        
+
+        {% if post.paperurl %}
+          <a href=" {{ post.paperurl }} "> <u>[paper]</u></a>
+        {% else %}
+          <u>[paper]</u>
+        {% endif %}
+
+        {% if post.previewvideo %}
+          <a href=" {{ post.previewvideo }} "> <u>[video]</u></a>
+        {% else %}
+          <u>[video]</u>
+        {% endif %}
              
         {% if page.citation %}
           <p>{{ page.citation }} </p>
