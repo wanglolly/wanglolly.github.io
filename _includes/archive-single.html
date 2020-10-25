@@ -49,10 +49,10 @@
 
 
     {% if post.paperurl %}
-      <p><a href=" {{ post.paperurl }} "> <u>[paper]</u></a>
+      <a href=" {{ post.paperurl }} "> <u>[paper]</u></a>
     {% else %}
-      <p><u>[paper]</u>
-    </p>
+      <u>[paper]</u>
+    
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
