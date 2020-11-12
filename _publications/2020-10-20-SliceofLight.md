@@ -16,3 +16,5 @@ citation: '<b>Chiu-Hsuan Wang</b>, Chia-En Tsai, <a href="https://seraphina-yong
 This work presents Slice of Light, a visualization design created to enhance transparency and integrative transition between realities of Head-Mounted Display (HMD) users sharing the same physical environment. Targeted at reality-guests, Slice of Light's design enables guests to view other HMD users' interactions contextualized in their own virtual environments while allowing the guests to navigate among these virtual environments. In this paper, we detail our visualization design and the implementation. We demonstrate Slice of Light with a block-world construction scenario that involves a multi-HMD-user environment. VR developer and HCI expert participants were recruited to evaluate the scenario, and responded positively to Slice of Light. We discuss their feedback, our design insights, and the limitations of this work.
 
 [Blog Post](https://medium.com/acm-uist/realizing-travel-between-multiple-virtual-realities-9f6a7c803bb1)
+[5 mins Presentation](https://www.youtube.com/watch?v=z_UUTvqgCsc)
+[15 mins Presentation](https://www.youtube.com/watch?v=IB31-pc8YY8)
