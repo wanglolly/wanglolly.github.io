@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in National Chiao Tung University, Department of Electrical and Computer Engineering, 2016
-* Ph.D in National Chiao Tung University, Institute of Computer Science and Engineering, Now
+* B.S. in National Chiao Tung University, Department of Electrical and Computer Engineering, 2012 - 2016
+* M.S. in National Chiao Tung University, Institute of Computer Science and Engineering, 2016 - 2017
+* Ph.D in National Yang Ming Chiao Tung University, Institute of Computer Science and Engineering, Now
 
 Teaching Assistant
 ======
