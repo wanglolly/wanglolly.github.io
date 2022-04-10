@@ -1,0 +1,236 @@
+html {
+	/* height: 100%; */
+	/* background-image: linear-gradient(#FC5E55, #FA4083); */
+}
+
+body {
+	background-image: url(images/image-lion-background.png), linear-gradient(#FC5E55, #FA4083);
+	background-position: top center;
+	background-repeat: no-repeat;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.125rem;
+
+}
+
+.container {
+	width: 1024px;
+	min-height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header {
+	padding: 20px 0px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid lightgray;
+}
+
+nav .NavButton {
+	border: 1px solid white;
+	font-family: 'Playfair Display', serif;
+	padding: 11px 25px;
+	margin-left: 5px;
+	display: inline-block;
+	position: relative;
+}
+
+.NavButton a {
+	text-decoration: none;
+	color: white;
+}
+
+.DropDownMenu {
+	display: none;
+	position: absolute;
+	/* the depth of the menu */
+	z-index: 1;
+	padding-top: 20px;
+	margin-left: -25px;
+}
+
+nav .NavButton:hover .DropDownMenu {
+	display: block;
+}
+
+.DropDownMenu .NavButton {
+	background-color: white;
+}
+
+.DropDownMenu .NavButton a {
+	color: #FA4083;
+}
+
+main {
+	min-height: 300px;
+	display: flex;
+	align-items: center;
+}
+
+.contactMain {
+	min-height: 300px;
+	padding-top: 50px;
+}
+
+.herobox1 {
+	flex: 2;
+	padding-right: 130px;
+}
+
+.herobox2 {
+	flex: 1;
+}
+
+/* .herobox2 img{
+	border-radius: 5px;
+} */
+
+main h1,
+.contactMain h1 {
+	font-size: 3.25rem;
+	font-family: 'Playfair Display', serif;
+	margin-bottom: 1rem;
+	/* text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.7); */
+}
+
+main p,
+.contactMain p {
+	line-height: 1.75rem;
+	margin-bottom: 0.5rem;
+}
+
+main .MyButton {
+	text-decoration: none;
+	background-color: white;
+	color: #FA4083;
+	font-family: 'Playfair Display', serif;
+	padding: 11px 25px;
+	display: inline-block;
+	margin-top: 10px;
+	border-radius: 2px;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+main .MyButton:hover {
+	background-color: pink;
+	transition-duration: 1s;
+}
+
+.cards {
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+}
+
+.card1 {
+	background-image: url(images/image-background-card1.jpg);
+	background-size: cover;
+	background-position: bottom;
+	width: 30%;
+	min-height: 250px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.card2 {
+	background-image: url(images/image-background-card2.jpg);
+	background-size: cover;
+	background-position: bottom;
+	width: 30%;
+	min-height: 250px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.card3 {
+	background-image: url(images/image-background-card3.jpg);
+	background-size: cover;
+	background-position: bottom;
+	width: 30%;
+	min-height: 250px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.card1,
+.card2,
+.card3 {
+	padding: 30px 30px 20px 30px;
+	box-sizing: border-box;
+}
+
+.cards a {
+	color: white;
+	text-decoration: none;
+}
+
+.cards h2 {
+	font-size: 2rem;
+	font-family: 'Playfair Display', serif;
+	margin-top: 20px;
+}
+
+.cards p {
+	font-size: 0.85rem;
+	line-height: 1.2rem;
+	margin-top: 10px;
+}
+
+.cards i {
+	font-size: 100px;
+}
+
+.testimonials {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-bottom: 100px;
+}
+
+.tbox {
+	width: 47%;
+	padding: 50px;
+	line-height: 1.75rem;
+	border: 1px solid white;
+	box-sizing: border-box;
+	margin-top: 50px;
+}
+
+/* .tbox :last-child{
+	font-size: 0.8rem;
+} */
+
+/* last of the <p> type  */
+.tbox p:last-of-type {
+	font-size: 0.8rem;
+	padding-left: 30px;
+}
+
+.material-icons {
+	font-family: 'Material Icons';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 100px;
+	/* Preferred icon size */
+	display: inline-block;
+	line-height: 1;
+	text-transform: none;
+	letter-spacing: normal;
+	word-wrap: normal;
+	white-space: nowrap;
+	direction: ltr;
+
+	/* Support for all WebKit browsers. */
+	-webkit-font-smoothing: antialiased;
+	/* Support for Safari and Chrome. */
+	text-rendering: optimizeLegibility;
+
+	/* Support for Firefox. */
+	-moz-osx-font-smoothing: grayscale;
+
+	/* Support for IE. */
+	font-feature-settings: 'liga';
+}
