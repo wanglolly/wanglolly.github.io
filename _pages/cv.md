@@ -28,6 +28,12 @@ Teaching Assistant
 * 2017 - 2019 Fall: Interaction Design and Virtual Reality.
   * Dept. of Computer Science, NCTU
 
+* 2021 - 2022 Fall: Multimedia and Human Computer Interaction Capstone.
+  * Dept. of Computer Science, NYCU
+
+* 2022 Spring & Fall: Web Design.
+  * Dept. of Communication and Technology, NYCU
+
 Activity
 ======
 * OpenHCI 2017 TA
