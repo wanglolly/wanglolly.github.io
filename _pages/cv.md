@@ -35,7 +35,7 @@ Activity
 * TAICHI x UIST Online Talks Event Planner
   * In 2021, we plan a series of online talks to introduce the UIST community.
   
-  [More Info] (https://taiwanchi.org/2021/09/08/taichi-x-uist-%e7%b7%9a%e4%b8%8a%e6%9c%83%e5%ae%a2%e5%ae%a4-%e7%ac%ac%e4%b8%80%e5%bd%88/)
+  [More Info](https://taiwanchi.org/2021/09/08/taichi-x-uist-%e7%b7%9a%e4%b8%8a%e6%9c%83%e5%ae%a2%e5%ae%a4-%e7%ac%ac%e4%b8%80%e5%bd%88/)
   
 Skills
 ======
