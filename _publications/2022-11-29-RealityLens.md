@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-11-29
 venue: 'ACM UIST 2022'
 paperurl: 'https://doi.org/10.1145/3526113.3545686'
-previewvideo: 'https://www.youtube.com/watch?v=di4M6IAhgl4'
+previewvideo: 'https://www.youtube.com/watch?v=RGGkWFHLUxM'
 citation: '<b>Chiu-Hsuan Wang</b>, Bing-Yu Chen, and Liwei Chan. 2022. RealityLens: A User Interface for Blending Customized Physical World View into Virtual Reality. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (UIST ’22). Association for Computing Machinery, New York, NY, USA.'
 ---
 
