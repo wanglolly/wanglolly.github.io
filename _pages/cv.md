@@ -37,18 +37,14 @@ Teaching Assistant
 Activity
 ======
 * OpenHCI 2017 TA
-  * OpenHCI is a human-computer interaction workshop organized by students. It aims to promote human-computer interaction and cross-disciplinary cooperation. In this workshop, I worked as a group TA and helped our team members to drive the discussion and support the implementation.
-  
-    [Open HCI 2017](https://www.2017.openhci.com/)
-  
+  * OpenHCI is a human-computer interaction workshop organized by students. It aims to promote human-computer interaction and cross-disciplinary cooperation. In this workshop, I worked as a group TA and helped our team members to drive the discussion and support the implementation.  
+    [Open HCI 2017](https://www.2017.openhci.com/)  
     [Open HCI 2017 - 第二組 然後呢 The Journey of RECOVERY](https://www.youtube.com/watch?v=RvzCkgojwxI)
 * TAICHI x UIST Online Talks Event Planner
-  * In 2021, we plan a series of online talks to introduce the UIST community.
-  
+  * In 2021, we plan a series of online talks to introduce the UIST community.  
     [TAICHI x UIST Online Talk Event](https://taiwanchi.org/2021/09/08/taichi-x-uist-%e7%b7%9a%e4%b8%8a%e6%9c%83%e5%ae%a2%e5%ae%a4-%e7%ac%ac%e4%b8%80%e5%bd%88/)
 * 2021 國立陽明交通大學應用藝術所聯展 後藝情時代 - 不對稱
-  * 布袋戲是個逐漸式微的文化資產。因此陽明交通大學與西田布袋戲基金會合作，將此技藝與AR/VR等新興科技結合，希望在保存、延續舊文化的同時，能夠更近一步透過科技帶來新的風采。  在這個作品中，我們利用AR/VR技術重現出西遊記裡孫悟空大戰鐵扇公主的場景，並且通過討論用手操控和用身體操偶等方式，探討了不同種操偶帶來的效果差異。
-  
+  * 布袋戲是個逐漸式微的文化資產。因此陽明交通大學與西田布袋戲基金會合作，將此技藝與AR/VR等新興科技結合，希望在保存、延續舊文化的同時，能夠更近一步透過科技帶來新的風采。  在這個作品中，我們利用AR/VR技術重現出西遊記裡孫悟空大戰鐵扇公主的場景，並且通過討論用手操控和用身體操偶等方式，探討了不同種操偶帶來的效果差異。  
     [後藝情時代 - 不對稱](https://iaadesign.web.nycu.edu.tw/2021/09/02/%e4%b8%8d%e5%b0%8d%e7%a8%b1/)
   
 Skills
