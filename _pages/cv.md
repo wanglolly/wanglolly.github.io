@@ -38,11 +38,11 @@ Activity
 ======
 * OpenHCI 2017 TA
   * OpenHCI is a human-computer interaction workshop organized by students. It aims to promote human-computer interaction and cross-disciplinary cooperation. In this workshop, I worked as a group TA and helped our team members to drive the discussion and support the implementation.
-  [Open HCI 2017](https://www.2017.openhci.com/)
-  [Open HCI 2017 - 第二組 然後呢 The Journey of RECOVERY](https://www.youtube.com/watch?v=RvzCkgojwxI)
+    [Open HCI 2017](https://www.2017.openhci.com/)
+    [Open HCI 2017 - 第二組 然後呢 The Journey of RECOVERY](https://www.youtube.com/watch?v=RvzCkgojwxI)
 * TAICHI x UIST Online Talks Event Planner
   * In 2021, we plan a series of online talks to introduce the UIST community.
-  [TAICHI x UIST Online Talk Event](https://taiwanchi.org/2021/09/08/taichi-x-uist-%e7%b7%9a%e4%b8%8a%e6%9c%83%e5%ae%a2%e5%ae%a4-%e7%ac%ac%e4%b8%80%e5%bd%88/)
+    [TAICHI x UIST Online Talk Event](https://taiwanchi.org/2021/09/08/taichi-x-uist-%e7%b7%9a%e4%b8%8a%e6%9c%83%e5%ae%a2%e5%ae%a4-%e7%ac%ac%e4%b8%80%e5%bd%88/)
   
 Skills
 ======
