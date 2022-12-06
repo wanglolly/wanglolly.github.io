@@ -1,5 +1,5 @@
 ---
-title: "Slice of Light: Transparent and Integrative Transition Among Realities in a Multi-HMD-UserEnvironment."
+title: "Slice of Light: Transparent and Integrative Transition Among Realities in a Multi-HMD-User Environment."
 collection: publications
 permalink: /publication/2020-10-20-SliceofLight
 excerpt: ''
