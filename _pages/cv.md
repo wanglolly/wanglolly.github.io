@@ -9,10 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interest
+======
+* Human-Computer Interaction, Mixed Reality Interface
+
+Working Experience
+======
+* Postdoctoral Researcher in D-School, National Taiwan University, 2023 - Now
+
 Education
 ======
 * B.S. in National Chiao Tung University, Department of Electrical and Computer Engineering, 2012 - 2016
-* M.S. & Ph.D in National Yang Ming Chiao Tung University, Institute of Computer Science and Engineering, 2016 - Now
+* Ph.D in National Yang Ming Chiao Tung University, Institute of Computer Science and Engineering, 2016 - 2023
 
 Teaching Assistant
 ======
