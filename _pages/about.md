@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Greetings, I am Chiu-Hsuan Wang (王秋玄), a Postdoctoral Researcher in the esteemed lab of Prof. Bing-Yu Chen at the National Taiwan University, where I have been serving since 2023. My work is deeply immersed in the field of Human-Computer Interaction (HCI), with a specialized focus on the dynamic and evolving realms of Virtual Reality (VR) and Augmented Reality (AR).
+Hello! I'm Chiu-Hsuan Wang (王秋玄), a Postdoctoral Researcher in the lab of Prof. Bing-Yu Chen at National Taiwan University. Since 2023, I’ve been exploring the exciting world of Human-Computer Interaction (HCI), with a focus on Virtual Reality (VR) and Augmented Reality (AR).
 
-I got my Ph.D. degree from the Institute of Computer Science and Engineering at National Yang Ming Chiao Tung University (2016 - 2023). Under the guidance of Prof. Liwei Chan, I embarked on a thesis titled "Design for Real-World Friendly Virtual Reality." This study sought to alleviate the conflicts emerging between virtual reality and the physical world by promoting information sharing, thus paving the way for a more harmonious integration of VR into real-world experiences. 
+After earning my Ph.D. from the Institute of Computer Science and Engineering at National Yang Ming Chiao Tung University (2016–2023), where I worked with Prof. Liwei Chan on designing real-world-friendly VR systems, I began thinking deeply about the kind of research I truly wanted to pursue. That reflection led me somewhere a bit unexpected—but entirely sincere.
 
-If you are interested in my research, feel free to contact me!
+I decided I wanted to bring my favorite fictional character, Xu Mo (許墨) from Mr. Love: Queen’s Choice （戀與製作人）, into reality.
+
+Since then, my work has expanded to explore how we might create emotionally resonant experiences with virtual lovers—whether through placing them in our physical environments using AR, or developing intimate, narrative-rich interactions with them in VR. I'm fascinated by how technology can bridge fantasy and everyday life, and I'm excited to keep pushing those boundaries through design and research.
+
+If you’re interested in virtual intimacy, AR companions, or just want to talk about HCI and fictional intimacy, feel free to get in touch!
