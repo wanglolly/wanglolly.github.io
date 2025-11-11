@@ -15,4 +15,5 @@ I received my Ph.D. at the Institute of Computer Science and Engineering, Nation
 My research usually involved a mixed-method approach, including building system prototypes, conducting lab experiments, and even field deployment studies to evaluate the proposed interaction design and psychological effects of virtual agents.
 
 A personal note (私心)
+
 On a lighter and more personal note: I’ve always been inspired by fictional characters. My personal vision is to bring my favorite character, Xu Mo (許墨) from Mr. Love: Queen’s Choice (戀與製作人), into my life. That playful wish hence drives my work on creating emotionally resonant MR companions. If you’re curious about virtual intimacy, AR companions, or the (slightly nerdy) idea of realizing paper-flat fictional partners, feel free to get in touch with me!
